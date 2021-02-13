@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-13T00:08:34.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="izoNusW8tKH4H3qgsDQx" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-13T00:12:17.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="EYjM9S1ewIzEXqzUxG7f" version="14.3.1" type="github">
   <diagram id="SCqkBrxXB9uGR9A7Ij0R" name="Page-1">
     <mxGraphModel dx="2574" dy="1404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,38 +13,35 @@
         <mxCell id="Mo0A9-6o7HakSVzytzav-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mo0A9-6o7HakSVzytzav-15" target="Mo0A9-6o7HakSVzytzav-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mo0A9-6o7HakSVzytzav-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Storage__Content_Delivery_Amazon_S3_Bucket_with_Objects-128.png" vertex="1" parent="1">
-          <mxGeometry x="50" y="110" width="128" height="128" as="geometry" />
+        <mxCell id="Mo0A9-6o7HakSVzytzav-1" value="Structured Data(Curated)&amp;nbsp;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Storage__Content_Delivery_Amazon_S3_Bucket_with_Objects-128.png" vertex="1" parent="1">
+          <mxGeometry x="60" y="96" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="Mo0A9-6o7HakSVzytzav-9" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_Move_Stack_128x128.png" vertex="1" parent="1">
+        <mxCell id="Mo0A9-6o7HakSVzytzav-9" value="T2" style="image;html=1;image=img/lib/clip_art/computers/Database_Move_Stack_128x128.png" vertex="1" parent="1">
           <mxGeometry x="112" y="424" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mo0A9-6o7HakSVzytzav-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="148" width="180" height="330" as="geometry" />
+          <mxGeometry x="610" y="139" width="180" height="330" as="geometry" />
         </mxCell>
         <mxCell id="Mo0A9-6o7HakSVzytzav-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/weather-blue-filled-line/32/weather_snow_snowflake_winter_cold_holiday_flake-128.png" vertex="1" parent="1">
           <mxGeometry x="720" y="155" width="38" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Mo0A9-6o7HakSVzytzav-12" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_Move_Stack_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="625" y="238" width="50" height="50" as="geometry" />
+        <mxCell id="Mo0A9-6o7HakSVzytzav-12" value="T0" style="image;html=1;image=img/lib/clip_art/computers/Database_Move_Stack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="680" y="224" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Mo0A9-6o7HakSVzytzav-13" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_Move_Stack_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="708" y="230" width="50" height="50" as="geometry" />
+        <mxCell id="Mo0A9-6o7HakSVzytzav-13" value="T1" style="image;html=1;image=img/lib/clip_art/computers/Database_Move_Stack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="680" y="310" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Mo0A9-6o7HakSVzytzav-14" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_Move_Stack_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="690" y="364" width="50" height="50" as="geometry" />
+        <mxCell id="Mo0A9-6o7HakSVzytzav-14" value="T2" style="image;html=1;image=img/lib/clip_art/computers/Database_Move_Stack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Mo0A9-6o7HakSVzytzav-17" value="Structure Data(Curated Bucket)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="64" y="230" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Mo0A9-6o7HakSVzytzav-19" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_Move_Stack_128x128.png" vertex="1" parent="1">
+        <mxCell id="Mo0A9-6o7HakSVzytzav-19" value="T0" style="image;html=1;image=img/lib/clip_art/computers/Database_Move_Stack_128x128.png" vertex="1" parent="1">
           <mxGeometry x="72" y="346" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Mo0A9-6o7HakSVzytzav-20" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_Move_Stack_128x128.png" vertex="1" parent="1">
+        <mxCell id="Mo0A9-6o7HakSVzytzav-20" value="T1" style="image;html=1;image=img/lib/clip_art/computers/Database_Move_Stack_128x128.png" vertex="1" parent="1">
           <mxGeometry x="132" y="346" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mo0A9-6o7HakSVzytzav-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/weather-blue-filled-line/32/weather_snow_snowflake_winter_cold_holiday_flake-128.png" vertex="1" parent="1">
-          <mxGeometry x="144" y="281" width="38" height="38" as="geometry" />
+          <mxGeometry x="124" y="281" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Mo0A9-6o7HakSVzytzav-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mo0A9-6o7HakSVzytzav-22" target="Mo0A9-6o7HakSVzytzav-10">
           <mxGeometry relative="1" as="geometry" />
@@ -55,8 +52,14 @@
         <mxCell id="Mo0A9-6o7HakSVzytzav-27" value="Pipeline" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="28" y="570" width="802" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mo0A9-6o7HakSVzytzav-29" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3334B9;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_postgresql_instance;" vertex="1" parent="1">
+        <mxCell id="Mo0A9-6o7HakSVzytzav-29" value="Metadata Store" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3334B9;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_postgresql_instance;" vertex="1" parent="1">
           <mxGeometry x="740" y="640" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Mo0A9-6o7HakSVzytzav-30" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.vault;" vertex="1" parent="1">
+          <mxGeometry x="758" y="155" width="23.85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mo0A9-6o7HakSVzytzav-31" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.vault;" vertex="1" parent="1">
+          <mxGeometry x="162" y="289" width="23.85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
