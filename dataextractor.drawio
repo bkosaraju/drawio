@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-13T00:52:55.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="cKMaiPmm-8xZlp3sV7Q1" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-13T00:54:34.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="9vAhG3og_J7wFxWqwhwy" version="14.3.1" type="github">
   <diagram id="tjm02w94kXSYn7uwMTQH" name="Page-1">
     <mxGraphModel dx="2574" dy="1404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,7 +21,10 @@
         <mxCell id="Fcjf_uLkhxQYQOjqJBQi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fcjf_uLkhxQYQOjqJBQi-15" target="Fcjf_uLkhxQYQOjqJBQi-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fcjf_uLkhxQYQOjqJBQi-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/imod/128/Harware/iDatabase.png" vertex="1" parent="1">
+        <mxCell id="Fcjf_uLkhxQYQOjqJBQi-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fcjf_uLkhxQYQOjqJBQi-6" target="Fcjf_uLkhxQYQOjqJBQi-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fcjf_uLkhxQYQOjqJBQi-6" value="Aurora / RDBMS&amp;nbsp;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/imod/128/Harware/iDatabase.png" vertex="1" parent="1">
           <mxGeometry x="93" y="650" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Fcjf_uLkhxQYQOjqJBQi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.203;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Fcjf_uLkhxQYQOjqJBQi-8" target="Fcjf_uLkhxQYQOjqJBQi-13">
@@ -45,14 +48,8 @@
         <mxCell id="Fcjf_uLkhxQYQOjqJBQi-13" value="Raw Bucket" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Storage__Content_Delivery_Amazon_S3_Bucket_with_Objects-128.png" vertex="1" parent="1">
           <mxGeometry x="685" y="440" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="Fcjf_uLkhxQYQOjqJBQi-15" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C7131F;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_encryption_key;" vertex="1" parent="1">
-          <mxGeometry x="250" y="680" width="38.15" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="Fcjf_uLkhxQYQOjqJBQi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fcjf_uLkhxQYQOjqJBQi-6" target="Fcjf_uLkhxQYQOjqJBQi-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="183" y="695" as="sourcePoint" />
-            <mxPoint x="360" y="578" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Fcjf_uLkhxQYQOjqJBQi-15" value="Field Level Encryption" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C7131F;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_encryption_key;" vertex="1" parent="1">
+          <mxGeometry x="250" y="671" width="38.15" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Fcjf_uLkhxQYQOjqJBQi-17" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C7131F;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_encryption_key;" vertex="1" parent="1">
           <mxGeometry x="230" y="554.5" width="38.15" height="48" as="geometry" />
