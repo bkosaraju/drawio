@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T05:13:45.119Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" version="20.2.3" etag="LxIHhuWucDblKqcMoTe9" type="github"><diagram id="OhKaLDaHgcXHkoBfcTl3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-10T01:28:33.354Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="nEXb_QsPuL6tDEKcMfzD" version="20.2.3" type="github">
+  <diagram id="OhKaLDaHgcXHkoBfcTl3" name="Page-1">
+    <mxGraphModel dx="2066" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8ND7kdwB8o9J2yMEpzUh-13" value="Ingestion Task" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ND7kdwB8o9J2yMEpzUh-1" target="8ND7kdwB8o9J2yMEpzUh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ND7kdwB8o9J2yMEpzUh-17" value="SNS SQS File&amp;nbsp; Registry / Landing Status" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ND7kdwB8o9J2yMEpzUh-1" target="8ND7kdwB8o9J2yMEpzUh-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="118" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ND7kdwB8o9J2yMEpzUh-1" value="Session Data" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="32" y="120" width="68" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ND7kdwB8o9J2yMEpzUh-4" value="File Pre Processor Task" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ND7kdwB8o9J2yMEpzUh-2" target="8ND7kdwB8o9J2yMEpzUh-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="498.25" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ND7kdwB8o9J2yMEpzUh-18" value="Ingestion Status Registry" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ND7kdwB8o9J2yMEpzUh-2" target="8ND7kdwB8o9J2yMEpzUh-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="462" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ND7kdwB8o9J2yMEpzUh-2" value="Raw Bucket&amp;nbsp;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="76.5" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="8ND7kdwB8o9J2yMEpzUh-7" value="Data Curation Task" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ND7kdwB8o9J2yMEpzUh-5" target="8ND7kdwB8o9J2yMEpzUh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ND7kdwB8o9J2yMEpzUh-19" value="Ingestion Status - Updated Dataset" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.21;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ND7kdwB8o9J2yMEpzUh-5" target="8ND7kdwB8o9J2yMEpzUh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ND7kdwB8o9J2yMEpzUh-5" value="Raw Bucket&amp;nbsp;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="352.5" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="8ND7kdwB8o9J2yMEpzUh-23" value="Source Image load" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8ND7kdwB8o9J2yMEpzUh-6" target="8ND7kdwB8o9J2yMEpzUh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ND7kdwB8o9J2yMEpzUh-27" value="Curation Status&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ND7kdwB8o9J2yMEpzUh-6" target="8ND7kdwB8o9J2yMEpzUh-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="210" />
+              <mxPoint x="498" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ND7kdwB8o9J2yMEpzUh-6" value="Curation Bucket" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="350" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="8ND7kdwB8o9J2yMEpzUh-28" value="Source Image load status" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ND7kdwB8o9J2yMEpzUh-9" target="8ND7kdwB8o9J2yMEpzUh-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="719" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="45" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ND7kdwB8o9J2yMEpzUh-9" value="Source Image" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.redshift;" vertex="1" parent="1">
+          <mxGeometry x="700" y="357.5" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="8ND7kdwB8o9J2yMEpzUh-15" value="Fire Registry" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_cube.svg;" vertex="1" parent="1">
+          <mxGeometry x="455" y="20" width="45" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
